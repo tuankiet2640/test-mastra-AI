@@ -18,4 +18,4 @@ It includes experiments with custom agents, tools, and workflows for weather and
 
 
 ## New update 🤯
-![crazy fin agent](image.png))
+![crazy fin agent](images/image.png))
