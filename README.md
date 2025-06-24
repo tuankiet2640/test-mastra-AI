@@ -7,10 +7,15 @@ It includes experiments with custom agents, tools, and workflows for weather and
 ## Features
 
 - ☀️ Weather agent and workflow
-- 💸 Financial agent and workflow
+- 💸 Financial agent and workflow 
 - 🧰 Mastra-style tool integration
 - 🧠 Example of LLM-driven analysis
+
 
 ---
 
 **Note:** This is a testbed for learning and experimenting with Mastra AI. 🧪👾
+
+
+## New update 🤯
+![crazy fin agent](image.png))
